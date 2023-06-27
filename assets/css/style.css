@@ -26,7 +26,7 @@ nav ul{
     font-size: 1.5rem;
 }
 body{
-    color: black;
+    color: white;
     background-color: brown;
     text-align:top;
     margin:0;
@@ -34,13 +34,14 @@ body{
 }
 
  figure{
-    background-image: url ("C:\Users\14426\Desktop\My-portfolio\assets\images\photo-1516653980844-c68df1de5249.avif");
+    background-image: url ();
     width:100vw;
     height:30vh;
     background-repeat: repeat;
     background-position: center;
     margin:0;
     padding: 0;
+    
   
 } 
 
