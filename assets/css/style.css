@@ -34,9 +34,8 @@ body{
 }
 
  figure{
-    background-image: url ();
-    width:100vw;
-    height:30vh;
+    width:200vw;
+    height:50vh;
     background-repeat: repeat;
     background-position: center;
     margin:0;
@@ -45,7 +44,7 @@ body{
   
 } 
 
-/* figure{
+ figure{
     width: 100%;
     margin:0;
     padding:0
@@ -53,8 +52,9 @@ body{
 
 figure img{
     width:100%;
-    height:30%;
-} */
+    height:75%;
+    
+} 
 
 main{
     margin: 1%;
